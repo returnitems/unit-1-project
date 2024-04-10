@@ -1,0 +1,12 @@
+#buzzer {
+    display: flex;
+    justify-content: center;
+}
+
+#button {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    font-size: 24px;
+    background-color: rgba(103, 202, 223, 1);
+}
