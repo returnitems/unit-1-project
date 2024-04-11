@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     gap: 20px;
-    align-items: center;
+    align-items: end;
 }
 
 #button {
@@ -17,8 +17,8 @@
 }
 
 #reset {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
     cursor: pointer;
 }
