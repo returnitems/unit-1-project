@@ -1,6 +1,7 @@
 #buzzer {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 20px;
     align-items: center;
 }
 
@@ -20,6 +21,11 @@
     width: 100px;
     border-radius: 50%;
     cursor: pointer;
+}
+
+h1 {
+    position: relative;
+    left: 45%;
 }
 
 p {
